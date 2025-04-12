@@ -2,12 +2,13 @@
 A KUAL app which can setup and disable KOReader to autorun on boot
 Does not kill the kindle UI because that seems to make it fail
 # Requirements
-Koreader
+[Koreader for Kindle](https://github.com/koreader/koreader/wiki/Installation-on-Kindle-devices)
 # Installation:
-1. extract the zip package and copy the folder to your extensions folder of your kindle
-2. Open KUAL
-3. Open KOReader autolaunch
-4. Select install
+1. clone this repository **`git clone https://github.com/meepcat55/Kindle-KOReader-On-Boot.git`** or download it as a zip
+2. copy the cloned or extracted folder to the extensions folder of your kindle
+3. Open KUAL
+4. Open KOReader autolaunch
+5. Select install
 # Uninstallation
 You have 3 options
 1. follow the same steps as installation but select remove instead of install
