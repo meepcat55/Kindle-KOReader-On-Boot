@@ -1,0 +1,22 @@
+{
+	"items": [
+	{
+		"name": "KOReader autolaunch",
+		"priority": -998,
+		"items": [
+		{
+            "name": "Install",
+            "priority": 1, 
+            "action": "bin/install.sh",
+            "exitmenu": true
+		},
+		{
+            "name": "Remove",
+            "priority": 2, 
+            "action": "bin/remove.sh",
+            "exitmenu": true
+		}
+		]
+	}
+	]
+}
