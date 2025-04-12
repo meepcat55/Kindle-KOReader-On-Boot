@@ -4,7 +4,7 @@ Does not kill the kindle UI because that seems to make it fail
 # Requirements
 [Koreader for Kindle](https://github.com/koreader/koreader/wiki/Installation-on-Kindle-devices)
 # Installation:
-1. clone this repository **`git clone https://github.com/meepcat55/Kindle-KOReader-On-Boot.git`** or download it as a zip
+1. clone this repository **`git clone https://github.com/meepcat55/Kindle-KOReader-On-Boot.git`** or [download it as a zip](https://github.com/meepcat55/Kindle-KOReader-On-Boot/archive/refs/heads/main.zip)
 2. copy the cloned or extracted folder to the extensions folder of your kindle
 3. Open KUAL
 4. Open KOReader autolaunch
