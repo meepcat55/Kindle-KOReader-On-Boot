@@ -14,3 +14,6 @@ You have 3 options
 1. follow the same steps as installation but select remove instead of install
 2. open the KOReader terminal emulator and run bash /mnt/us/KOReader-autolaunch-remove.sh
 3. plug your kindle into your computer and rename koreader.sh in the koreader folder to something else, follow option 1, rename the file back to koreader.sh
+# Note
+This is semi-abandonware mostly because I keep forgeting about it. If its broken let me know and I might be able to fix it.
+
